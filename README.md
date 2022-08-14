@@ -1,5 +1,5 @@
 # Exchange Rates Helper
-A GUI programm that displays the current exchange rates from CBR. Created with QT framework.
+A GUI program that displays the current exchange rates from CBR. Created with QT framework.
 This application sends a request to CBR server every ten seconds and stores the information about the current exchange rates.
 When user presses the stop button, it shows the median and average values for every currency. 
 
